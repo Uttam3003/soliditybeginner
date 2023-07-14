@@ -1,4 +1,4 @@
-# soliditybeginner
+# Solidity Beginner
 # MyToken
 MyToken is a Solidity contract that represents a custom token called "META" (MTA). 
 The contract allows for the minting and burning of tokens, as well as maintaining balances for different addresses.
